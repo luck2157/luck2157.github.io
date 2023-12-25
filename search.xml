@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title></title>
+      <link href="/2023/12/25/%E4%BD%99%E6%B5%B7%E6%B3%A2%E5%AD%A6%E6%9C%9F%E6%80%BB%E7%BB%93/"/>
+      <url>/2023/12/25/%E4%BD%99%E6%B5%B7%E6%B3%A2%E5%AD%A6%E6%9C%9F%E6%80%BB%E7%BB%93/</url>
+      
+        <content type="html"><![CDATA[<h1 id="学期总结"><a href="#学期总结" class="headerlink" title="学期总结"></a>学期总结</h1><h2 id="开发专区"><a href="#开发专区" class="headerlink" title="开发专区"></a>开发专区</h2><ul><li><p><input checked="" disabled="" type="checkbox"> java</p></li><li><p><input checked="" disabled="" type="checkbox"> jQuery </p></li><li><p><input checked="" disabled="" type="checkbox"> AJAX </p></li><li><p><input checked="" disabled="" type="checkbox"> Node.JS </p></li><li><p><input checked="" disabled="" type="checkbox"> Vue （Vue2.0 and Vue3.0）</p></li><li><p><input disabled="" type="checkbox"> TypeScript（ing）</p><hr></li></ul><h2 id="网安专区"><a href="#网安专区" class="headerlink" title="网安专区"></a>网安专区</h2><ul><li><p><input checked="" disabled="" type="checkbox"> SQL注入相关渗透和防御</p></li><li><p><input checked="" disabled="" type="checkbox"> XSS相关渗透和防御</p></li><li><p><input checked="" disabled="" type="checkbox"> 文件上传验证</p></li><li><p><input disabled="" type="checkbox"> 内网渗透和防御（ing）</p></li></ul><h3 id="掌握的平台和工具"><a href="#掌握的平台和工具" class="headerlink" title="掌握的平台和工具"></a>掌握的平台和工具</h3><p>burpsuite,AWVS,FOFA,sqlmap,hackbar</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>网安社区</title>
       <link href="/2023/11/07/%E7%BD%91%E5%AE%89%E7%A4%BE%E5%8C%BA/"/>
       <url>/2023/11/07/%E7%BD%91%E5%AE%89%E7%A4%BE%E5%8C%BA/</url>
